@@ -119,8 +119,12 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Models\Coordinate.cs" />
     <Compile Include="Reponses\LocationsResponse.cs" />
+    <Compile Include="Models\Station.cs" />
+    <Compile Include="Models\Stationboard.cs" />
     <Compile Include="Reponses\StationboardReponse.cs" />
+    <Compile Include="Models\Stop.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
