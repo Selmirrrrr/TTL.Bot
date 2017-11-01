@@ -3,4 +3,4 @@ Simple bot built with [MS Bot Framework](https://dev.botframework.com) available
 
 Datas are from [Swiss public transport API](https://transport.opendata.ch)
 
-Talk to [RoxtarBot](https://telegram.me/TTLNextBot) on Telegram to try it out :)
+Talk to [RoxtarBot](https://telegram.me/TTLNextBot) on Telegram to try it out :) **offline for now**
